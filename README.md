@@ -29,8 +29,8 @@ Includes user authentication and admin-only post management with rich-text editi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/flask-blog.git
-cd flask-blog
+git clone https://github.com/David1DDT/Blog-App.git
+cd Blog-App
 ```
 
 2. Create and activate a virtual environment:
@@ -57,7 +57,7 @@ DB_URI=sqlite:///blog.db
 - Run the app:
 
 ```bash
-python app.py
+python main.py
 ```
 
 - Open your browser and go to:
