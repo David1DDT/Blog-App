@@ -14,7 +14,7 @@ Includes user authentication and admin-only post management with rich-text editi
 - Gravatar integration for user avatars
 
 ## Requirements
-- Python 3.x
+- Python 3.8
 - Flask
 - Flask-Bootstrap
 - Flask-Login
